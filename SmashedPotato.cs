@@ -167,7 +167,7 @@ namespace SmashedPotato
 				arguments[5] = exhaust;
 				arguments[6] = "-disable_defender";
 				arguments[7] = defender;
-				arguments[8] = "--spoof_host";
+				arguments[8] = "-spoof_host";
 				arguments[9] = wpad;
 				
 				method.Invoke(o, new object[] { arguments } );
