@@ -44,4 +44,4 @@ InstallUtil.exe /logfile= /LogToConsole=false /U C:\Utils\SmashedPotatoX64.exe
 
 ### Shout-outs:
 
-Go out to @breenmachine for his magnificent Potato code and @SubTee for his App Whitelisting techniques. 
+Go out to @breenmachine/@foxglovesec for their magnificent Potato code and @SubTee for his App Whitelisting techniques. 
